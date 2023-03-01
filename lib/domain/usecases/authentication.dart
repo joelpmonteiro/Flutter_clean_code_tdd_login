@@ -20,9 +20,6 @@ class AuthenticationParams {
     required this.email,
     required this.password,
   });
-
-  //Map para retornar dados em formato json para os testes na requisição
-  Map toJson() => {'email': email, 'password': password};
 }
 
 
