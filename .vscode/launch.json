@@ -5,7 +5,7 @@
             "name": "Flutter: Run all tests",
             "type": "dart",
             "request": "launch",
-            "program": "test/"
+            "program": "./test/"
         },
         {
             "name": "Flutter",
